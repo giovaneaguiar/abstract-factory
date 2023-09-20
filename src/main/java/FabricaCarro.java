@@ -1,0 +1,3 @@
+interface FabricaCarro {
+    Carro criarCarro();
+}
