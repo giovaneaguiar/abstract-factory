@@ -1,4 +1,4 @@
-class FabricaCarroEsportivo implements FabricaCarro {
+public class FabricaCarroEsportivo implements FabricaCarro {
     @Override
     public Carro criarCarro() {
         return new CarroEsportivo();

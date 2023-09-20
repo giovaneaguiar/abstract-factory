@@ -1,3 +1,3 @@
-interface FabricaCarro {
+public interface FabricaCarro {
     Carro criarCarro();
 }

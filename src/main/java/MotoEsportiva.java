@@ -1,4 +1,4 @@
-class MotoEsportiva extends Moto {
+public class MotoEsportiva extends Moto {
     @Override
     String getTipo() {
         return "Moto Esportiva";
